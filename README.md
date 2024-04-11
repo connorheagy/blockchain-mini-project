@@ -5,7 +5,7 @@ Description: This assignment required us to create and manipulate a block chain 
 
 ### Authors: Connor Heagy & Shibam Mukhopadhyay 
 
-GitHub Repo Link:
+GitHub Repo Link: https://github.com/killerstriker13/blockchain-mini-project
 
 Acknowledgements: Discussed ComputeHash with William and David. Q&A section from MP7 very helpful!
 
