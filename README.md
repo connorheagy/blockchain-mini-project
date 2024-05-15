@@ -1,7 +1,7 @@
 
 ### MP7: 
 Purpose: Record transactions using BlockChains for two people Alexis and Blake.
-Description: This assignment required us to create and manipulate a block chain through the used of linked lists. We worked on Teams message instead of pushing and pulling from Github since my github was not working properly at one point.
+Description: This assignment required us to create and manipulate a block chain through the used of linked lists. We worked on Teams message instead of pushing and pulling from Github since my github was not working properly at one point. Through the use of linked lists we create the block chain efficiently.  
 
 ### Authors: Connor Heagy & Shibam Mukhopadhyay 
 
